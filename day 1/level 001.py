@@ -1,0 +1,5 @@
+print("pizza")
+print("dog")
+print("math")
+print("gogona gareubnidan")
+print("etuna,manana,giorgi,marine.")
